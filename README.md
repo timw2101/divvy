@@ -1,7 +1,7 @@
 ﻿# divvy
 ## 1	Introduction
-Cyclistic is a bike-sharing program operating in Chicago that offers a variety of pricing plans, including single-ride passes, day passes, and annual memberships. While the pricing flexibility has helped attract a broad customer base, finance analysts have concluded that annual members are much more profitable and key to future growth. 
-To support this objective, Cyclistic aims to better understand how casual riders, who are single-ride or day pass users, and annual members use the service, in order to develop strategies for membership adoption. This analysis will focus on the first phase of that effort, where we observe how annual members and casual riders use Cyclistic differently. 
+Cyclistic is a bike-sharing program operating in Chicago that offers a variety of pricing plans, including single-ride passes, day passes, and annual memberships. While the pricing flexibility has helped attract a broad customer base, finance analysts have concluded that annual members are much more profitable and key to future growth. <br>
+To support this objective, Cyclistic aims to better understand how casual riders, who are single-ride or day pass users, and annual members use the service, in order to develop strategies for membership adoption. This analysis will focus on the first phase of that effort, where we observe how annual members and casual riders use Cyclistic differently. <br>
 Using 12 months of historical trip data, this case study examines rider behavior across dimensions such as ride durations, trip frequency, and temporal usage patterns. These metrics are key in uncovering meaningful behavioral differences between the two groups and providing data-driven recommendations to support future membership growth initiatives. 
 
 
@@ -9,10 +9,10 @@ Using 12 months of historical trip data, this case study examines rider behavior
 The objective of this analysis is to identify behavioral differences between casual riders and annual members in Cyclistic’s bike-share program. These insights will support the marketing team in designing strategies to convert casual riders into annual members, thereby increasing long-term profitability.
 
 ## 3   Data Source Description
-- Description: This dataset contains Cyclistic's trip data of over 5 million trips between May 2025 and April 2026, tracking the activity of riders across Chicago. 12 months of trip data is covered across 12 datasets, where each row denotes 1 bike trip. 
-- Access: The dataset is made available by Motivate International Inc. under this license https://divvybikes.com/data-license-agreement. 
-- Limitations: The dataset does not include personally identifiable information, preventing user-level tracking and demographic segmentation. Additionally, external factors that may influence riding behaviour, such as weather and trip purpose, are not included.
-- Key metrics: The data in the dataset covers the timestamps, location endpoints, coordinate endpoints, bike type(classic/electric), and user types (member/casual). As such, the dataset is suitable for behavioral trend analysis. 
+Description: This dataset contains Cyclistic's trip data of over 5 million trips between May 2025 and April 2026, tracking the activity of riders across Chicago. 12 months of trip data is covered across 12 datasets, where each row denotes 1 bike trip. <br>
+Access: The dataset is made available by Motivate International Inc. under this license https://divvybikes.com/data-license-agreement. <br>
+Limitations: The dataset does not include personally identifiable information, preventing user-level tracking and demographic segmentation. Additionally, external factors that may influence riding behaviour, such as weather and trip purpose, are not included. <br>
+Key metrics: The data in the dataset covers the timestamps, location endpoints, coordinate endpoints, bike type(classic/electric), and user types (member/casual). As such, the dataset is suitable for behavioral trend analysis. 
 
 ## 4	Documentation
 ### 4.1	Data Integrity

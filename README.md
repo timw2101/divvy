@@ -9,7 +9,7 @@ The objective of this analysis is to identify behavioral differences between cas
 
 ## 3   Data Source Description
 Description: This dataset contains Cyclistic's trip data of over 5 million trips between May 2025 and April 2026, tracking the activity of riders across Chicago. 12 months of trip data is covered across 12 datasets, where each row denotes 1 bike trip. <br>
-Access: The dataset is made available by Motivate International Inc. under this license https://divvybikes.com/data-license-agreement. <br>
+Access: The dataset is made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). <br>
 Limitations: The dataset does not include personally identifiable information, preventing user-level tracking and demographic segmentation. Additionally, external factors that may influence riding behaviour, such as weather and trip purpose, are not included. <br>
 Key metrics: The data in the dataset covers the timestamps, location endpoints, coordinate endpoints, bike type(classic/electric), and user types (member/casual). As such, the dataset is suitable for behavioral trend analysis. 
 

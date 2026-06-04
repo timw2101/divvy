@@ -35,12 +35,18 @@ Ride lengths that were negative, under a minute, or over 24 hours were removed.
     - 5,833 (0.1%) trips were over 24 hours 
 Rides over 24 hours generally indicate stolen bikes or users failing to properly dock the bike, whereas rides under 1 minute are usually false starts, accidental unlocks, or immediate returns due to a malfunctioning dock.
 
-## 5	Visualizations and Key Findings
+## 5	Summary of Analysis
+- Casual riders use Cyclistic for recreational purposes, whereas annual members use Cyclistic for commuting purposes. 
+- Annual members account for nearly two-thirds of total trips, while casual riders spend 1.6x more time on average each ride. 
+- Total trips by annual members are significantly higher than casual riders during weekdays, and converges during the weekends.
+- Seasonally, activity level is at its peak during the warmer months (summer – June to August). Casual riders are more weather-dependent, seeing a significant increase in average ride lengths during this period.
+
+## 6	Visualizations and Key Findings
 
 ![member-green annual-orange](images/membercasual.png) 
  
 - Annual members accounted for 64.72% of all Cyclistic trips. Despite accounting for nearly two-thirds of rides, their total riding time is smaller, only accounting for 53.3%. This suggests a discrepancy between the average ride times of the two member types.
- 
+
 - Upon further analysis, casual riders ride for an average of 19.72 minutes each trip, over 1.6 times longer than annual members’ average ride time of 12.26 minutes. Longer ride times are consistent with leisure and suggest casual riders using Cyclistic for recreational purposes.
  
 - Casual riders’ average ride lengths increase significantly during warmer periods (e.g., Summer - June to August), peaking to as high as 21.91 minutes in June. Annual members’ activity level remains relatively consistent all year round. 
@@ -49,16 +55,10 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
  
 - Annual members generated approximately 224% more trips than casual riders during weekdays. On the contrary, casual riders increase significantly over the weekends, signifying Cyclistic is being used for leisure, whereas annual members decrease, indicating that Cyclistic has become integrated into their daily commuting routines.
 
-
 - Annual members exhibit a clear pattern between 7am - 9am and 4pm - 6pm on weekdays, strongly suggesting that Cyclistic is being used for commuting purposes. They use the bikes to commute to work in the morning and from work in the evening. <br>
 On the contrary, casual riders display a consistent pattern throughout the week. On weekdays, usage slowly builds where it peaks in the late afternoon, suggesting that casual riders are less dependent on Cyclistic for traditional work schedules and may be using them for errands, leisure, or flexible transportation purposes instead. <br>
 Weekend behaviour is remarkably similar across both annual members and casual riders, where usage is minimal in the morning and gradually increases throughout the day, peaking between 12pm - 5pm.
 
-## 6	Summary of Analysis
-- Casual riders use Cyclistic for recreational purposes, whereas annual members use Cyclistic for commuting purposes. 
-- Annual members account for nearly two-thirds of total trips, while casual riders spend 1.6x more time on average each ride. 
-- Total trips by annual members are significantly higher than casual riders during weekdays, and converges during the weekends.
-- Seasonally, activity level is at its peak during the warmer months (summer – June to August). Casual riders are more weather-dependent, seeing a significant increase in average ride lengths during this period.
 
 ## 7    Recommendations
 - Incentivize frequent riding

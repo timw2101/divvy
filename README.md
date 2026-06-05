@@ -26,7 +26,9 @@ Ride length
 Cleaning involved checking for missing values and anomalies in ride lengths.
 #### 4.3.1	Missing values
 - Missing values were evaluated based on their relevance to the business objective.
-- 1,914,653 (33.61%) of 5,697,455 rows returned missing values. Among them, none contained crucial information such as timestamps, bike type, or rider type. Non-critical missing fields, such as station names/id and lat/long were retained to avoid unnecessary data loss. As such, no rows with missing values were removed. 
+- 1,914,653 (33.61%) of 5,697,455 rows returned missing values. 
+    - None contained crucial information such as timestamps, bike type, or rider type. 
+    - Non-critical missing fields, such as station names/id and lat/long were retained to avoid unnecessary data loss. As such, no rows with missing values were removed. 
 #### 4.3.2	Ride Length
 Ride lengths that were negative, under a minute, or over 24 hours were removed. 
 - A total of 161,465 rows were removed

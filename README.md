@@ -42,7 +42,6 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
 - Seasonally, activity level is at its peak during the warmer months (summer – June to August). Casual riders are more weather-dependent, seeing a significant increase in average ride lengths during this period.
 
 ## 6	Visualizations and Key Findings
-
 <p align="center">
     <img src="https://www.image2url.com/r2/default/images/1780645741697-c5e7969f-9ad1-48b7-8ee4-f67c3a939927.png" alt="membercasual_legend">
 </p>
@@ -99,3 +98,6 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
     - Offer discounted first-year memberships to casual riders who complete multiple rides during the summer, marketed aggressively specifically during this period where they are interacting with the service the most and likely to perceive value in continued usage. <br>
 - Target high-engagement casual riders
     - Target casual riders who use Cyclistic repeatedly with personalized offers. Because they already use the service so frequently, converting them may require less behavioural change compared to acquiring entirely new users.
+
+
+Project duration: 19 May 2026 - 5 June 2026

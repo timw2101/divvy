@@ -100,4 +100,4 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
     - Target casual riders who use Cyclistic repeatedly with personalized offers. Because they already use the service so frequently, converting them may require less behavioural change compared to acquiring entirely new users.
 
 
-Project duration: 19 May 2026 - 5 June 2026
+Project timeline: 19 May 2026 - 5 June 2026

@@ -33,7 +33,7 @@ Ride lengths that were negative, under a minute, or over 24 hours were removed.
     - 156 (0.0027%) rows contained negative ride times
     - 155,476 (2.73%) trips were under 1 minute
     - 5,833 (0.1%) trips were over 24 hours 
-Rides over 24 hours generally indicate stolen bikes or users failing to properly dock the bike, whereas rides under 1 minute are usually false starts, accidental unlocks, or immediate returns due to a malfunctioning dock.
+        - Rides over 24 hours generally indicate stolen bikes or users failing to properly dock the bike, whereas rides under 1 minute are usually false starts, accidental unlocks, or immediate returns due to a malfunctioning dock.
 
 ## 5	Summary of Analysis
 - Casual riders use Cyclistic for recreational purposes, whereas annual members use Cyclistic for commuting purposes. 

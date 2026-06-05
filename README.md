@@ -49,23 +49,23 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
 <p align="center">
   <img src="https://www.image2url.com/r2/default/images/1780645844604-7e336f8d-d148-49c3-923e-a5206cd619bf.png" alt="mc_trips_ridelength">
 </p> 
-- Annual members accounted for 64.72% of all Cyclistic trips. Despite accounting for nearly two-thirds of rides, their total riding time is smaller, only accounting for 53.3%. This suggests a discrepancy between the average ride times of the two member types. <br>
+- Annual members accounted for 64.72% of all Cyclistic trips. Despite accounting for nearly two-thirds of rides, their total riding time is smaller, only accounting for 53.3%. This suggests a discrepancy between the average ride times of the two member types.  <br>
 <p align="center">
   <img src="https://www.image2url.com/r2/default/images/1780645906609-a2af87d2-d5cc-4489-b5fc-0e0d3dd03377.png" alt="mc_avg_rl">
 </p> 
-- Upon further analysis, casual riders ride for an average of 19.72 minutes each trip, over 1.6 times longer than annual members’ average ride time of 12.26 minutes. Longer ride times are consistent with leisure and suggest casual riders using Cyclistic for recreational purposes. <br>
+- Upon further analysis, casual riders ride for an average of 19.72 minutes each trip, over 1.6 times longer than annual members’ average ride time of 12.26 minutes. Longer ride times are consistent with leisure and suggest casual riders using Cyclistic for recreational purposes.  <br>
 <p align="center">
   <img src="https://www.image2url.com/r2/default/images/1780646013138-2116c732-f9ad-4420-bb72-9478c491bcf4.png" alt="monthly_avg_rl">
 </p> 
-- Casual riders’ average ride lengths increase significantly during warmer periods (e.g., Summer - June to August), peaking to as high as 21.91 minutes in June. Annual members’ activity level remains relatively consistent all year round. <br>
+- Casual riders’ average ride lengths increase significantly during warmer periods (e.g., Summer - June to August), peaking to as high as 21.91 minutes in June. Annual members’ activity level remains relatively consistent all year round.  <br>
 <p align="center">
   <img src="https://www.image2url.com/r2/default/images/1780645972845-5b40c5eb-1325-46ca-9cd8-721e563ca990.png" alt="monthly_trips">
 </p>
-- Both annual and casual riders depict a similar trend, where total trips peak during warmer periods and decrease as it gets colder. <br>
+- Both annual and casual riders depict a similar trend, where total trips peak during warmer periods and decrease as it gets colder.  <br>
 <p align="center">
   <img src="https://www.image2url.com/r2/default/images/1780646070125-f3da57e5-690c-430c-ba13-761630965f27.png" alt="monthly_trips">
 </p>
-- Annual members generated approximately 224% more trips than casual riders during weekdays. On the contrary, casual riders increase significantly over the weekends, signifying Cyclistic is being used for leisure, whereas annual members decrease, indicating that Cyclistic has become integrated into their daily commuting routines. <br>
+- Annual members generated approximately 224% more trips than casual riders during weekdays. On the contrary, casual riders increase significantly over the weekends, signifying Cyclistic is being used for leisure, whereas annual members decrease, indicating that Cyclistic has become integrated into their daily commuting routines.  <br>
 <p align="center">
   <img src="https://www.image2url.com/r2/default/images/1780645581282-b53222a3-0cc4-4921-bf07-c576cea60e85.png" alt="rider_tod">
 </p>

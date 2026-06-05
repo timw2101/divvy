@@ -1,4 +1,10 @@
-﻿## 1	Introduction
+﻿<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
+## 1	Introduction
 Cyclistic is a bike-sharing program operating in Chicago that offers a variety of pricing plans, including single-ride passes, day passes, and annual memberships. While the pricing flexibility has helped attract a broad customer base, finance analysts have concluded that annual members are much more profitable and key to future growth. <br>
 To support this objective, Cyclistic aims to better understand how casual riders, who are single-ride or day pass users, and annual members use the service, in order to develop strategies for membership adoption. This analysis will focus on the first phase of that effort, where we observe how annual members and casual riders use Cyclistic differently. <br>
 Using 12 months of historical trip data, this case study examines rider behavior across dimensions such as ride durations, trip frequency, and temporal usage patterns. These metrics are key in uncovering meaningful behavioral differences between the two groups and providing data-driven recommendations to support future membership growth initiatives. 
@@ -74,11 +80,9 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
     <br>
     <img src="https://www.image2url.com/r2/default/images/1780645581282-b53222a3-0cc4-4921-bf07-c576cea60e85.png" alt="rider_tod">
 </p>
-<div style="text-align: justify;">
 Annual members exhibit a clear pattern between 7am - 9am and 4pm - 6pm on weekdays, strongly suggesting that Cyclistic is being used for commuting purposes. They use the bikes to commute to work in the morning and from work in the evening. <br>
 On the contrary, casual riders display a consistent pattern throughout the week. On weekdays, usage slowly builds where it peaks in the late afternoon, suggesting that casual riders are less dependent on Cyclistic for traditional work schedules and may be using them for errands, leisure, or flexible transportation purposes instead. <br>
 Weekend behaviour is remarkably similar across both annual members and casual riders, where usage is minimal in the morning and gradually increases throughout the day, peaking between 12pm - 5pm.
-</div>
 
 
 ## 7    Recommendations

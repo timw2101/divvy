@@ -1,10 +1,4 @@
-﻿<style>
-  p {
-    text-align: justify;
-  }
-</style>
-
-## 1	Introduction
+﻿## 1	Introduction
 Cyclistic is a bike-sharing program operating in Chicago that offers a variety of pricing plans, including single-ride passes, day passes, and annual memberships. While the pricing flexibility has helped attract a broad customer base, finance analysts have concluded that annual members are much more profitable and key to future growth. <br>
 To support this objective, Cyclistic aims to better understand how casual riders, who are single-ride or day pass users, and annual members use the service, in order to develop strategies for membership adoption. This analysis will focus on the first phase of that effort, where we observe how annual members and casual riders use Cyclistic differently. <br>
 Using 12 months of historical trip data, this case study examines rider behavior across dimensions such as ride durations, trip frequency, and temporal usage patterns. These metrics are key in uncovering meaningful behavioral differences between the two groups and providing data-driven recommendations to support future membership growth initiatives. 

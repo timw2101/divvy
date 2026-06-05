@@ -43,7 +43,6 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
 
 ## 6	Visualizations and Key Findings
 
-<div style="text-align: justify;">
 <p align="center">
     <img src="https://www.image2url.com/r2/default/images/1780645741697-c5e7969f-9ad1-48b7-8ee4-f67c3a939927.png" alt="membercasual_legend">
 </p>
@@ -75,6 +74,7 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
     <br>
     <img src="https://www.image2url.com/r2/default/images/1780645581282-b53222a3-0cc4-4921-bf07-c576cea60e85.png" alt="rider_tod">
 </p>
+<div style="text-align: justify;">
 - Annual members exhibit a clear pattern between 7am - 9am and 4pm - 6pm on weekdays, strongly suggesting that Cyclistic is being used for commuting purposes. They use the bikes to commute to work in the morning and from work in the evening. <br>
 On the contrary, casual riders display a consistent pattern throughout the week. On weekdays, usage slowly builds where it peaks in the late afternoon, suggesting that casual riders are less dependent on Cyclistic for traditional work schedules and may be using them for errands, leisure, or flexible transportation purposes instead. <br>
 Weekend behaviour is remarkably similar across both annual members and casual riders, where usage is minimal in the morning and gradually increases throughout the day, peaking between 12pm - 5pm.

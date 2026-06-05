@@ -94,8 +94,8 @@ Rides over 24 hours generally indicate stolen bikes or users failing to properly
 - Incentivize frequent riding
     - Promote memberships as a cost-effective solution for riders who use Cyclistic regularly. The pronounced weekday patterns displayed by annual members show that memberships provide the greatest value to riders who use Cyclistic for regular commuting and routine travel.
         - Convenience denotes the idea that Cyclistic is a hassle-free and readily available option to get from point A to point B, without the hassle of having to wait for a bus or taxi, or deal with the troubles of driving (finding parking, sitting in traffic, etc.)
-        - Reliability denotes the idea that users can depend on Cyclistic’s services regularly. 
+        - Reliability denotes the idea that users can depend on Cyclistic’s services regularly. <br>
 - Create transition incentives during the summer peak
-    - Offer discounted first-year memberships to casual riders who complete multiple rides during the summer, marketed aggressively specifically during this period where they are interacting with the service the most and likely to perceive value in continued usage.
+    - Offer discounted first-year memberships to casual riders who complete multiple rides during the summer, marketed aggressively specifically during this period where they are interacting with the service the most and likely to perceive value in continued usage. <br>
 - Target high-engagement casual riders
     - Target casual riders who use Cyclistic repeatedly with personalized offers. Because they already use the service so frequently, converting them may require less behavioural change compared to acquiring entirely new users.
